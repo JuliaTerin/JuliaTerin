@@ -1,5 +1,5 @@
 # Hello 
-### My name is Julia Terin, I'm studying Front-End dev in [Laboratória](https://static.vecteezy.com/ti/vetor-gratis/p1/681785-ilustracao-de-tela-de-computador-gr%C3%A1tis-vetor.jpg), a 6 month bootcamp. The training is intensive, aimed at the formation of a junior front-end developer who knows how to work in environments of uncertainty and constant change. It learns JavaScript, HTML, CSS, UX, and more. In the bootcamp, not only technical skills are developed, but also soft skills and professional skills, such as self-learning, communication, teamwork, among others.
+### My name is Julia Terin, I'm studying Front-End dev in [Laboratória](https://static.vecteezy.com/ti/vetor-gratis/p1/681785-ilustracao-de-tela-de-computador-gr%C3%A1tis-vetor.jpg), a 6 month bootcamp. The training is intensive, aimed at the formation of a junior front-end developer who knows how to work in environments of uncertainty and constant change. It learns JavaScript, HTML, CSS, UX, and more. In the bootcamp, not only technical skills are developed, but also soft skills and professional skills, such as self-learning, communication, teamwork, and more.
 
 
 <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/681785-ilustracao-de-tela-de-computador-gr%C3%A1tis-vetor.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
